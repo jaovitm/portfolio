@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.327af2fa.css",
+    "main.js": "/static/js/main.58c70692.js",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.5e2040ec8d6239b5f8d3.jpg",
+    "static/media/portfolio5.jpg": "/static/media/portfolio5.7a8f6d5605424c2aa28c.jpg",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.ca61786394953e7046fc.jpg",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.c3d5b8e30d7e9e187136.jpg",
+    "static/media/portfolio1.jpg": "/static/media/portfolio1.9d1bf2363c7ba51ee0d2.jpg",
+    "static/media/me-about.webp": "/static/media/me-about.637030321f7ed682d895.webp",
+    "static/media/Curriculo Joao Vitor M. de Sá.pdf": "/static/media/Curriculo Joao Vitor M. de Sá.b10f5fd73035d94e1970.pdf",
+    "static/media/asfalt-light.png": "/static/media/asfalt-light.0dc0248a94662fa2129c.png",
+    "static/media/CuteAvatarme.svg": "/static/media/CuteAvatarme.b07f93e1d9f6736fe3b71d83a1f9c8b9.svg",
+    "index.html": "/index.html",
+    "main.327af2fa.css.map": "/static/css/main.327af2fa.css.map",
+    "main.58c70692.js.map": "/static/js/main.58c70692.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.327af2fa.css",
+    "static/js/main.58c70692.js"
+  ]
+}
