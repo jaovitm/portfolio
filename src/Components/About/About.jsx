@@ -1,6 +1,6 @@
 import React from "react";
 import "./About.css";
-import EU from "../../assets/me-about.jpg";
+import EU from "../../assets/me-about.webp";
 import {FaAward} from "react-icons/fa"
 import { GiSkills } from "react-icons/gi";
 import { IoFolderOpenOutline } from "react-icons/io5";
@@ -39,7 +39,7 @@ const About = () => {
             </article>
           </div>
 
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. In ducimus soluta facilis dolore, nihil libero itaque quis sunt atque officiis odit quod exercitationem ratione nesciunt nulla consequatur non corrupti? A?</p>
+          <p>Olá! Me chamo João Vitor Machado de Sá, sou um Programdor FullStack. Sempre fui apaixonado pela tecnologia e resolvi usar essa paixão para ajudar a transformar o mundo atraves da programação.</p>
 
           <a href="#contact" className="btn btn-primary">Me Contrate</a>
         </div>

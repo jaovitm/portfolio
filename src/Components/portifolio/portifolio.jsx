@@ -4,52 +4,52 @@ import IMG1 from "../../assets/portfolio1.jpg"
 import IMG2 from "../../assets/portfolio2.jpg";
 import IMG3 from "../../assets/portfolio3.jpg";
 import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
-import IMG6 from "../../assets/portfolio6.jpg";
+import IMG5 from "../../assets/portfolio5.jpg";
+import IMG6 from "../../assets/portfolio3.jpg";
 
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Titulo do meu projeto",
-    github: "https://github.com/",
-    demo: "https://github.com/",
+    title: "FinCtrl",
+    github: "https://github.com/jaovitm/FinCtrl",
+    demo: "https://finctrl.netlify.app/",
   },
   {
-    id: 1,
+    id: 2,
     image: IMG2,
-    title: "Titulo do meu projeto",
-    github: "https://github.com/",
-    demo: "https://github.com/",
+    title: "To Do List",
+    github: "https://github.com/jaovitm/TaskList",
+    demo: "https://jaovitm.github.io/TaskList/",
   },
   {
-    id: 1,
+    id: 3,
     image: IMG3,
-    title: "Titulo do meu projeto",
-    github: "https://github.com/",
-    demo: "https://github.com/",
+    title: "Links Saver",
+    github: "https://github.com/jaovitm/Links-api",
+    demo: "https://linksctrl.netlify.app/",
   },
   {
-    id: 1,
+    id: 4,
     image: IMG4,
-    title: "Titulo do meu projeto",
-    github: "https://github.com/",
-    demo: "https://github.com/",
+    title: "Jogo da Forca",
+    github: "https://github.com/jaovitm/Hangman",
+    demo: "https://jaovitm.github.io/Hangman/",
   },
   {
-    id: 1,
+    id: 5,
     image: IMG5,
-    title: "Titulo do meu projeto",
-    github: "https://github.com/",
-    demo: "https://github.com/",
+    title: "Encriptador de Mensagens",
+    github: "https://github.com/jaovitm/encriptador",
+    demo: "https://jaovitm.github.io/encriptador/",
   },
   {
-    id: 1,
+    id: 6,
     image: IMG6,
-    title: "Titulo do meu projeto",
-    github: "https://github.com/",
-    demo: "https://github.com/",
+    title: "Rick and Morty Wiki",
+    github: "https://github.com/jaovitm/RickAndMortyDB",
+    demo: "https://jaovitm.github.io/RickAndMortyDB/index.html",
   },
 ];
 

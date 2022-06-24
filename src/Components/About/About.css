@@ -8,6 +8,7 @@
   width: 100%;
   aspect-ratio: 1/1;
   border-radius: 2rem;
+  object-fit: contain;
   background: linear-gradient(
     45deg,
     transparent,
@@ -19,6 +20,8 @@
 }
 
 .about-me-img {
+  width: 350px;
+  height: 400px;
   border-radius: 2rem;
   overflow: hidden;
   transform: rotate(10deg);
