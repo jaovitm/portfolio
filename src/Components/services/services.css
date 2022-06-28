@@ -1,75 +1,76 @@
-.services-container{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 3rem;
-    margin: 0 2.5rem;
+.services-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3rem;
+  margin: 0 2.5rem;
 }
 
-.service{
-    background: var(--color-bg-variant);
-    border-radius: 0 0 2rem 2rem;
-    border: 1px solid var(--color-primary);
-    height: fit-content;
-    transition: var(--transition);
+.service {
+  background: var(--color-bg-variant);
+  border-radius: 0 0 2rem 2rem;
+  border: 1px solid var(--color-primary);
+  height: fit-content;
+  transition: var(--transition);
 }
 
-.service:hover{
-    background: transparent;
-    border-color: var(--color-primary-variant);
-    cursor: default;
+.service:hover {
+  background: transparent;
+  border-color: var(--color-primary-variant);
+  cursor: default;
 }
 
-.service-head{
-    background: var(--color-primary);
-    padding: 2rem;
-    border-radius: 0 0 2rem 2rem;
-    box-shadow: 0 2rem 1rem rgba(0, 0, 0, 0.1);
+.service-head {
+  background: var(--color-primary);
+  padding: 2rem;
+  border-radius: 0 0 2rem 2rem;
+  box-shadow: 0 2rem 1rem rgba(0, 0, 0, 0.1);
 }
 
-.service-head h3{
-    color: var(--color-bg);
-    font-size: 1rem;
-    text-align: center;
+.service-head h3 {
+  color: var(--color-bg);
+  font-size: 1rem;
+  text-align: center;
 }
 
-.service-list{
-    padding: 2rem;
+.service-head h5 {
+  color: var(--color-white);
+  font-size: 0.9rem;
+  text-align: center;
 }
 
-.service-list li{
-    display: flex;
-    gap: 1rem;
-    margin-bottom: 0.8rem;
+.service-list {
+  padding: 2rem;
 }
 
-.service-list-icon{
-    color: var(--color-primary);
-    margin-top: 2px;
+.service-list li {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 0.8rem;
 }
 
-.service-list p{
-    font-size: 0.9rem;
+.service-list-icon {
+  color: var(--color-primary);
+  margin-top: 2px;
 }
 
+.service-list p {
+  font-size: 0.9rem;
+}
 
-@media screen and (max-width:1024px) {
-
-  .service-container{
+@media screen and (max-width: 1024px) {
+  .service-container {
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
   }
 
-  .service{
+  .service {
     height: auto;
   }
-  
 }
 
-@media screen and (max-width:600px) {
-
-  .services-container{
+@media screen and (max-width: 600px) {
+  .services-container {
     grid-template-columns: 1fr;
     gap: 1.5rem;
   }
-  
 }
