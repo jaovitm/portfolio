@@ -3,7 +3,6 @@ import "./About.css";
 import EU from "../../assets/me-about.webp";
 import {FaAward} from "react-icons/fa"
 import { GiSkills, GiGrandPiano } from "react-icons/gi";
-import { IoFolderOpenOutline } from "react-icons/io5";
 
 const About = () => {
   return (
