@@ -2,7 +2,7 @@ import React from 'react'
 import "./portifolio.css";
 import IMG1 from "../../assets/portfolio1.jpg"
 import IMG2 from "../../assets/portfolio2.jpg";
-import IMG3 from "../../assets/portfolio3.jpg";
+import IMG3 from "../../assets/portfolio3";
 import IMG4 from "../../assets/portfolio4.jpg";
 import IMG5 from "../../assets/portfolio5.jpg";
 import IMG6 from "../../assets/portfolio3.jpg";
@@ -26,9 +26,9 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: "Links Saver",
-    github: "https://github.com/jaovitm/Links-api",
-    demo: "https://linksctrl.netlify.app/",
+    title: "Blog - PedagogiaBH10",
+    github: "https://pedagogiabh10.com.br/",
+    demo: "https://pedagogiabh10.com.br/",
   },
   {
     id: 4,

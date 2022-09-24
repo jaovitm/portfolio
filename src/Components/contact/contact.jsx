@@ -1,7 +1,7 @@
 import React from "react";
 import "./contact.css";
 import { MdOutlineEmail } from "react-icons/md";
-import { FiTwitter, FiInstagram } from "react-icons/fi";
+import { FiTwitter, FiLinkedin } from "react-icons/fi";
 import { useRef } from "react";
 import emailjs from "emailjs-com";
 
@@ -59,10 +59,13 @@ const Contact = () => {
           </article>
 
           <article className="contact-option">
-            <FiInstagram className="contact-option-icon" />
-            <h4>Instagram</h4>
-            <h5>@jaovit.m</h5>
-            <a href="https://instagram.com/jaovit.m" target="_blank">
+            <FiLinkedin className="contact-option-icon" />
+            <h4>LinkedIN</h4>
+            <h5>joaovitormdesa</h5>
+            <a
+              href="https://www.linkedin.com/in/joaovitormdesa/"
+              target="_blank"
+            >
               Envie uma mensagem
             </a>
           </article>

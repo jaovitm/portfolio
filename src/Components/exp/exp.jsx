@@ -23,7 +23,7 @@ const exp = () => {
               <BsPatchCheckFill className="exp-details-icon" />
               <div>
                 <h4>CSS</h4>
-                <small className="text-light">Intermediário</small>
+                <small className="text-light">Com experiência</small>
               </div>
             </article>
             <article className="exp-details">
