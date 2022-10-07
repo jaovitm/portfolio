@@ -12,21 +12,21 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "FinCtrl",
+    title: "FinCtrl - Sistema de Gestão Financeira",
     github: "https://github.com/jaovitm/FinCtrl",
     demo: "https://finctrl.netlify.app/",
   },
   {
     id: 2,
-    image: IMG2,
-    title: "To Do List",
-    github: "https://github.com/jaovitm/TaskList",
-    demo: "https://jaovitm.github.io/TaskList/",
+    image: IMG6,
+    title: "AluraGeek - Ecommerce",
+    github: "https://github.com/jaovitm/agEcommerce",
+    demo: "https://alugeek.netlify.app/",
   },
   {
     id: 3,
     image: IMG3,
-    title: "Blog - PedagogiaBH10",
+    title: "PedagogiaBH10 - Blog",
     github: "https://pedagogiabh10.com.br/",
     demo: "https://pedagogiabh10.com.br/",
   },
@@ -46,10 +46,10 @@ const data = [
   },
   {
     id: 6,
-    image: IMG6,
-    title: "Rick and Morty Wiki",
-    github: "https://github.com/jaovitm/RickAndMortyDB",
-    demo: "https://jaovitm.github.io/RickAndMortyDB/index.html",
+    image: IMG2,
+    title: "To Do List",
+    github: "https://github.com/jaovitm/TaskList",
+    demo: "https://jaovitm.github.io/TaskList/",
   },
 ];
 
