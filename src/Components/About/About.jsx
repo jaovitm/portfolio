@@ -21,7 +21,7 @@ const About = () => {
             <article className="about-card">
               <FaAward className="about-icon" />
               <h5>Experiencia</h5>
-              <small>1+ Anos</small>
+              <small>2 Anos</small>
             </article>
 
             <article className="about-card">
@@ -38,7 +38,7 @@ const About = () => {
           </div>
 
           <p>
-            Olá! Me chamo João Vitor Machado de Sá, sou um Programdor FullStack.
+            Olá! Me chamo João Vitor Machado de Sá, sou um Programador FullStack.
             Sempre fui apaixonado pela tecnologia e resolvi usar essa paixão
             para ajudar a transformar o mundo atraves da programação.
           </p>
